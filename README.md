@@ -26,3 +26,4 @@ Hibernating Almost Lost — Made some initial purchases but have not seen them s
 Loyal Customers — These are the most loyal customers. They are active with frequent purchases and high monetary value. They could be the brand evangelists and should focus on serving them well. They could be the best customers to get feedback on any new product launches or be the early adopters or promoters.
 
 Champions Big Spenders - It is always a good idea to carefully “incubate” all new customers, but because these customers spent a lot on their purchase, it’s even more important. Like with the Best Customers group, it’s important to make them feel valued and appreciated – and to give them terrific incentives to continue interacting with the brand.
+![image](https://user-images.githubusercontent.com/84365378/148865390-7c70cf48-8506-448a-9f81-75a7d1c4b32c.png)
