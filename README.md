@@ -30,4 +30,5 @@ Champions Big Spenders - It is always a good idea to carefully “incubate” al
 
 # Product Recommendation and Geospatial Rating Analysis
 Different products are recommended based on popularity of new customer and based on highly rated categories. A geoplot is created showing ratings by state on Brazilian map.
+
 ![image](https://user-images.githubusercontent.com/84365378/148866071-01625fa2-d042-4efb-9db2-8e79f8fa8b90.png)
