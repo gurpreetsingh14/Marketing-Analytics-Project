@@ -27,3 +27,7 @@ Loyal Customers — These are the most loyal customers. They are active with fre
 
 Champions Big Spenders - It is always a good idea to carefully “incubate” all new customers, but because these customers spent a lot on their purchase, it’s even more important. Like with the Best Customers group, it’s important to make them feel valued and appreciated – and to give them terrific incentives to continue interacting with the brand.
 ![image](https://user-images.githubusercontent.com/84365378/148865390-7c70cf48-8506-448a-9f81-75a7d1c4b32c.png)
+
+# Product Recommendation and Geospatial Rating Analysis
+Different products are recommended based on popularity of new customer and based on highly rated categories. A geoplot is created showing ratings by state on Brazilian map.
+![image](https://user-images.githubusercontent.com/84365378/148866071-01625fa2-d042-4efb-9db2-8e79f8fa8b90.png)
